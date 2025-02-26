@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assessment 03</title>
+    <title>Assessment 03: Web Page Creation</title>
 </head>
 <body>
     <h1>Isosceles Triangles</h1>
